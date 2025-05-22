@@ -1,8 +1,6 @@
 ## A Foveated Renderer for VR HMDs in Unity
 
-
-https://github.com/je-lehmann/FoveatedVRGraphics/assets/49212649/2884de65-68e0-44ee-9051-e665cc612028
-
+https://github.com/user-attachments/assets/c04b08e1-aa18-4547-a63b-c25b99d5a2ae
 
 This repository contains a demonstration of how real-time eye tracking can be used to improve rendering time for real-time virtual reality applications. A Pupil Labs eye tracker was integrated into an HTC Vive HMD. The eye positions are used to render the scene at different resolution levels and are inspired by the paper "Foveated 3D Graphics". The provided video includes demonstrations of the Unity viking scene and the Pupil Labs calibration scene. Note, that used free Assets and Pupil eye tracking software is not included in this repository and needs to be setup manually. The tested Unity Version is 2019.3.7f1.
 
